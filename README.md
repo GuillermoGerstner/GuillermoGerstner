@@ -5,7 +5,7 @@
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/guillermogerstner)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/GuillermoGerstner)
 
-## ! I am a passionate developer from Argentina !
+## ! I am a passionate and dedicated developer !
 
 - 🧑‍💻 Committed to staying up-to-date with the latest technologies
 - 🌱 Continue learning and growing as a developer
