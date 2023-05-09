@@ -19,7 +19,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="26px" src="https://i.postimg.cc/90Ff9xxm/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://postimg.cc/Q9wsGqGw" style="padding-right:10px;" />
 
 
 
