@@ -1,6 +1,6 @@
 # Hello there, I'm Guillermo Gerstner 👋
 
-[![Header](https://i.postimg.cc/qvL67mZm/Abstract-Linked-In-Banner.png)](https://www.linkedin.com/in/guillermogerstner)
+[![Header](https://i.postimg.cc/Nf1t4B9W/Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png)](https://postimg.cc/MvKgZkYD)
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/guillermogerstner)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/GuillermoGerstner)
